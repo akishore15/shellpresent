@@ -13,4 +13,9 @@ Q: Why?
 - Q: In what ways?
 - A: It naturally does not have all the source code of PowerPoint or Google Slides, and that is just to start with! There are so many other cons!
 # Detailed UI
-Go check out the URL: **
+Go check out the URL: *https://github.com/akishore15/shellpresent* and read the code for more details.
+# Hey, I need more info!
+Here are some tips to improve your skill
+- Try learning Svelte and Kotlin; it will help you understand the project more!
+- Attempt to learn Ububtu to get through the Bash scripts easily.
+- For more information, go check the PowerPoint Docs.
